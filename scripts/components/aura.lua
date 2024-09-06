@@ -15,14 +15,14 @@ data = {
     {
         method = "Enable",
         params = {
-            {param = "val", explain = "", type = ""},
+            {param = "val", explain = "开关", type = "bool"},
 
         },
         returns = {
             
         },
-        tips = "",
-        author = "",
+        tips = "启动或禁用周期任务",
+        author = "i0",
     },
         
     {
@@ -33,8 +33,8 @@ data = {
         returns = {
             
         },
-        tips = "",
-        author = "",
+        tips = "周期任务，范围攻击",
+        author = "i0",
     },
         
 }
